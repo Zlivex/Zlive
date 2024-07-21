@@ -1,30 +1,30 @@
 #host-suffix,emby.agon.cf
 #舒服直连
-host-suffix,jz.mcjoker.xyz
+DOMAIN-SUFFIX,jz.mcjoker.xyz
 
 #小纸片
-host-suffix,embyplus.org
+DOMAIN-SUFFIX,embyplus.org
 
 #VisExp
-host-suffix,embyus.josersonjon.buzz
+DOMAIN-SUFFIX,embyus.josersonjon.buzz
 
 #free
-host-suffix,emby.intel.im
+DOMAIN-SUFFIX,emby.intel.im
 
 
 #cc
-host-suffix,cc.coemn.com
+DOMAIN-SUFFIX,cc.coemn.com
 
 #垃圾
-host-suffix,cf.xmsl.org
+DOMAIN-SUFFIX,cf.xmsl.org
 
 #peach
 #host-suffix,peachmv.me
 #peach
-host-suffix,embymv.tk
+DOMAIN-SUFFIX,embymv.tk
 
 #熊猫🐼
-host-suffix,pdatv.cc
+DOMAIN-SUFFIX,pdatv.cc
 
 #飞跃
-host-suffix,7777777.buzz:8096
+DOMAIN-SUFFIX,7777777.buzz
